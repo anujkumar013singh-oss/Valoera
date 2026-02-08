@@ -1,3 +1,4 @@
+import { Suspense } from 'react';
 import { prisma } from "@/lib/prisma";
 import ProductGrid from "@/components/product/ProductGrid";
 import { Button } from "@/components/ui/Button";
