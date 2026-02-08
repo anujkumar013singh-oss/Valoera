@@ -47,7 +47,6 @@ export default function ProductCard({
       name,
       price: discount ? price * (1 - discount / 100) : price,
       image,
-      quantity: 1,
       size: selectedSize || 'M',
       color: 'Black' 
     });
