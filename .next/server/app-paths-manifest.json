@@ -1,0 +1,10 @@
+{
+  "/products/page": "app/products/page.js",
+  "/learning/page": "app/learning/page.js",
+  "/page": "app/page.js",
+  "/collections/[id]/page": "app/collections/[id]/page.js",
+  "/trending/page": "app/trending/page.js",
+  "/about/page": "app/about/page.js",
+  "/track-order/page": "app/track-order/page.js",
+  "/product/[id]/page": "app/product/[id]/page.js"
+}
